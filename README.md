@@ -1,9 +1,9 @@
 # CUMRL
-Source codes of "Collaborative Unsupervised Multi-view Representation Learning" pubilished in IEEE TCSVT 2021
+Source codes of "Collaborative Unsupervised Multi-view Representation Learning" published in IEEE TCSVT 2021
 
 <img src="./CUMRL_Framework.png" width="65%">
 
-If you find the codes useful in your research, please cite our work as follows, thanks.
+If you find the codes useful in your research, please cite our work as follows. Thanks.
 
 @article\{CUMRLTCSVT2021,<br/>
       &nbsp;&nbsp;&nbsp;&nbsp;title=\{Collaborative Unsupervised Multi-view Representation Learning\},<br/>
